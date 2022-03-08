@@ -4,6 +4,6 @@
 
 —Completed Post graduate in Physics.
 
-—Skills: C/C++, Fortran, Matlab, Phython, SQL
+—Skills: C/C++, MongoDB, Matlab, Phython, SQL
 
 Contact: www.linkedin.com/in/kkr016
