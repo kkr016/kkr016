@@ -2,6 +2,6 @@
 
 —My proficiency in NLP and Computer vision which allows me to solve real-time problems.
 
-—Skills: Data Science | Machine Learning | Python | NLP | PyTorch | NumPy | pandas | SQL | MongoDB | PowerBI
+—Skills: Data Science | Machine Learning | Python | NLP | Computer vision | NumPy | pandas | SQL | MongoDB | PowerBI
 
 Contact: www.linkedin.com/in/kkr016
