@@ -1,8 +1,6 @@
-— I am a Data Science enthusiast with good knowledge of Python, Machine Learning, SQL, Statistics and Probability. 
+—I am a data science enthusiast with expertise in data preprocessing, EDA, creating predictive models using Python and its libraries and able to do feature engineering, identify patterns, and deploy models effectively. 
 
-— From Masters Data Science program from GUVI Incubated by IITM and IIM-A, I have hands-on experience on Machine learning algorithms, NLP, Data analysis and visualization concepts using Python libraries (Pandas, Matplotlib, Sklearn, Numpy, Seaborn, Plotly, OpenCV, NLTK, Torch, etc.), Pytorch and NoSQL-MongoDB.
-
-— Completed Master in Physics. Since my Bachelor's itself I have had good experience in Computational works.
+—My proficiency in NLP and Computer vision which allows me to solve real-time problems.
 
 —Skills: Data Science | Machine Learning | Python | NLP | PyTorch | NumPy | pandas | SQL | MongoDB | PowerBI
 
